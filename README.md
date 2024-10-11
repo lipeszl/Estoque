@@ -21,7 +21,7 @@ Certifique-se de ter o Node.js e o MySQL instalados em sua máquina. Você pode 
 ## Clonando o Repositório
 
 
-git clone 
+git clone https://github.com/lipeszl/Estoque
 cd seu-repositorio
 
 ## Instalando Dependências
